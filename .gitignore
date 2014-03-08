@@ -1,0 +1,9 @@
+# hidden/temp files
+.DS_Store
+*.swp
+*~.nib
+*.app
+
+# Build dir
+build/
+  
